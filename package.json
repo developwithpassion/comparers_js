@@ -2,7 +2,7 @@
   "author": "Jean-Paul S. Boodhoo",
   "name": "@developwithpassion/comparers_js",
   "description": "Utilty for building comparers for sort operations",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "url": ""
   },
